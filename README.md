@@ -8,12 +8,12 @@
 
 --->Performed spatial analysis on guests' hometown
 
---->Ananlysed how hotel prices vary across year
+--->Examined how hotel prices vary across year
 
---->Ananlysed preference of guests
+--->Analysed preference of guests
 
---->Ananlysed relationship between special requests and cancellation
+--->Investigated the relationship between special requests and cancellation
 
---->Ananlysed the busiest month
+--->Identified the busiest month
 
---->Ananlysed some more about customers
+--->Analysed some more about customers
